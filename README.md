@@ -26,5 +26,5 @@
 
 ---
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=raelldottin)
-[![GitHub Metrics Updates](https://github/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)[(https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
+[![GitHub Metrics Updates](https://github/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
 ---
