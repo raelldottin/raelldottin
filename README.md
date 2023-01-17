@@ -27,3 +27,5 @@
 <a href="https://github.com/raelldottin">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
+
+---
