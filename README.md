@@ -1,4 +1,4 @@
-# If the world treats me like a monster, I'm willingly becoming that monster to meet their expectations.
+# I'm trying to buy a Scoodle
 
 [![GitHub Metrics Updates](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
 
