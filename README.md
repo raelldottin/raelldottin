@@ -1,3 +1,5 @@
+# If the world treats me like a monster, I'm willingly becoming that monster to meet your expectations.
+
 [![GitHub Metrics Updates](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
 
 ---
