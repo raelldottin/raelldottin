@@ -1,6 +1,6 @@
 [![GitHub Metrics Updates](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
 
-Let's code like it's 1999, using modern langs with better type handling, garbage collection, memory allocation, optimization, etc.
+Let's code like it's 1995, using modern langs with better type handling, garbage collection, memory allocation, optimization, etc.
 
 ---
 
