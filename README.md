@@ -2,6 +2,12 @@
 
 Let's code like it's 1995, using modern langs with better type handling, garbage collection, memory allocation, optimization, etc.
 
+Roadmap:
+
+- 2023: Improve python, swift, devops
+- 2024: Improve golang, rust, devops
+- 2025: Improve c, asm, devops
+
 ---
 
 <a href="https://github.com/raelldottin">
