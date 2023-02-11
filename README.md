@@ -4,9 +4,16 @@ Let's code like it's 1995, using modern langs with better type handling, garbage
 
 Roadmap:
 
-- 2023: Improve python, swift, devops
-- 2024: Improve golang, rust, devops
-- 2025: Improve c, asm, devops
+- 2023: Improve python, swift, devops (aws, terraform, git, jenkins, nginx, saltstack)
+- 2024: Improve golang, rust, devops (TBD)
+- 2025: Improve c, asm, devops (TBD)
+- 2026: TBD
+- 2027: TBD
+- 2028: TBD
+- 2029: TBD
+- 2030: TBD
+- 2031: TBD
+- 2032: TBD
 
 ---
 
