@@ -4,9 +4,9 @@ Let's code like it's 1995, using modern langs with better type handling, garbage
 
 Roadmap:
 
- python, swift, devops (aws, consoleme, microk8s, docker, terraform, git, jenkins, nginx, saltstack, opensearch, apache-*)
-- 2024: Improve golang, rust, devops (TBD)
-- 2025: Improve c, asm, devops (TBD)
+- 2023: python, swift, terraform, aws, consoleme, microk8s, docker, terraform
+- 2024: golang, rust, TBD
+- 2025: c, asm, TBD
 
 ---
 
