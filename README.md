@@ -5,7 +5,7 @@ Let's code like it's 1995, using modern langs with better type handling, garbage
 Roadmap:
 
 - 2023: python, swift, gcp, docker, terraform, microk8s
-- 2024: golang, rust, aws, consoleme, weep
+- 2024: golang, rust, aws, consoleme, weep, jenkins
 - 2025: c, asm
 
 ---
