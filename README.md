@@ -4,7 +4,7 @@ Let's code like it's 1995, using modern langs with better type handling, garbage
 
 Roadmap:
 
-- 2023: python, swift, swiftui, watchos, ios, macos, visionos
+- 2023: python, swift, swiftui
 - 2024: gcp, docker, terraform, microk8s
 - 2025: golang, aws, consoleme, weep, jenkins
 - 2026: c, asm, rust, asterisk
