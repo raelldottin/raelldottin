@@ -6,7 +6,7 @@ Roadmap:
 
 - 2023: python, swift, swiftui
 - 2024: gcp, docker, terraform, microk8s
-- 2025: golang, aws, consoleme, weep, jenkins
+- 2025: golang, aws, consoleme, weep, jenkins, prometheus, grafana
 - 2026: c, asm, rust, asterisk
 
 ---
