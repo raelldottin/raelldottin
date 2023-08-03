@@ -5,9 +5,10 @@ I failed at becoming a rapper, so I decided to become a software engineer.
 Roadmap:
 
 - 2023: python, swift, swiftui
-- 2024: gcp, docker, terraform, microk8s
+- 2024: gcp, docker, terraform, ansible, microk8s
 - 2025: golang, aws, consoleme, weep, jenkins, prometheus, grafana
-- 2026: c, asm, rust, asterisk
+- 2026: c, asm, rust, asterisk, azur
+- 2027: ospf, bgp, mpls, vlan, vpn
 
 ---
 
