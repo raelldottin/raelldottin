@@ -9,7 +9,8 @@ Roadmap:
 - 2025: golang, aws, consoleme, weep, jenkins, prometheus, grafana
 - 2026: c, asm, rust, asterisk, azur
 - 2027: ospf, bgp, mpls, vlan, vpn
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 <a href="https://github.com/raelldottin">
