@@ -1,5 +1,3 @@
-[![GitHub Metrics Updates](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
-
 I failed at becoming a rapper, so I decided to become a software engineer.
 
 Roadmap:
@@ -9,6 +7,7 @@ Roadmap:
 - 2025: golang, aws, consoleme, weep, jenkins, prometheus, grafana
 - 2026: c, asm, rust, asterisk, azur
 - 2027: ospf, bgp, mpls, vlan, vpn
+[![Weekly Dev Breakdown Updates](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml)
 <!--START_SECTION:waka-->
 
 ```txt
@@ -17,7 +16,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 ---
-
+[![GitHub Metrics Updates](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
 <a href="https://github.com/raelldottin">
   <img align="center" width="49%" src="./header.svg" />
 </a>
