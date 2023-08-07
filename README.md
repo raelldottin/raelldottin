@@ -10,6 +10,11 @@ Roadmap:
 - 2026: c, asm, rust, asterisk, azur
 - 2027: ospf, bgp, mpls, vlan, vpn
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 ---
 
