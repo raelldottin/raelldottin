@@ -1,5 +1,3 @@
-I failed at becoming a rapper, so I decided to become a software engineer.
-
 Roadmap:
 
 - 2023: python, swift, swiftui
