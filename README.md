@@ -42,8 +42,10 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/raelldottin">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
+<!--
 <a href="https://github.com/raelldottin">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
+-->
 
 ---
