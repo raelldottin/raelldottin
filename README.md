@@ -4,7 +4,7 @@ Roadmap:
 - 2024: gcp, docker, terraform, ansible, microk8s
 - 2025: golang, aws, consoleme, weep, jenkins, prometheus, grafana
 - 2026: c, asm, rust, asterisk, azure
-- 2027: ospf, bgp, mpls, vlan, VPN
+- 2027: ospf, bgp, mpls, vlan, vpn
 
 
 [![Weekly Dev Breakdown Updates](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml)
