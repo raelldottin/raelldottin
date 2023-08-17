@@ -12,7 +12,8 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   33 mins         █████████████████████████   100.00 %
+Python     2 hrs 52 mins   ████████████████████████▓   98.13 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
