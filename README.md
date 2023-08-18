@@ -1,6 +1,6 @@
 Roadmap:
 
-- 2023: python, swift, swiftui
+- 2023: python (everything is an object, class defines how object is created and metaclass defines how an object is created), swift, swiftui
 - 2024: gcp, docker, terraform, ansible, microk8s
 - 2025: golang, aws, consoleme, weep, jenkins, prometheus, grafana
 - 2026: c, asm, rust, asterisk, azure
