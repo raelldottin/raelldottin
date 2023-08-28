@@ -12,9 +12,8 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript   18 mins         ██████████████████▒░░░░░░   73.65 %
-Python     4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-Assembly   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+GDScript   3 mins          █████████████████████▓░░░   86.33 %
+Python     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
 ```
 
 <!--END_SECTION:waka-->
