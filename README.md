@@ -12,8 +12,7 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript   3 mins          █████████████████████▓░░░   86.33 %
-Python     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
