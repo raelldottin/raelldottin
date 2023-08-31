@@ -1,6 +1,6 @@
 Roadmap:
 
-- 2023: python (everything is an object, class defines how object is created and metaclass defines how a class is created), swift (structs and closures)
+- 2023: python (everything is an object, class defines how object is created and metaclass defines how a class is created), swift (structs and closures), python design pattern (gof)
 - 2024: gcp, docker, terraform, ansible, microk8s
 - 2025: golang, aws, consoleme, weep, jenkins, prometheus, grafana
 - 2026: c, asm, rust, asterisk, azure
