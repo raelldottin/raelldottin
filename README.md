@@ -1,3 +1,9 @@
+Attempt a non-trival programming project (one that will require more than 1,000 lines of code to solve) by following these rules:
+1. Only one level of indentation is allowed per method, thus no if statements in loops or nesting.
+1. You’re not allowed to use the keyword else.
+1. All primitive types and strings must be wrapped in objects specifically for the use they are put to.
+1. Collections are first class
+
 Roadmap:
 
 - 2023: python (everything is an object, class defines how object is created and metaclass defines how a class is created), swift (structs and closures), python design pattern (gof)
