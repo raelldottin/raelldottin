@@ -11,6 +11,7 @@ Attempt a non-trival programming project (one that will require more than 1,000 
 
 — Thought Works Anthology by Jeff Bay published by The Pragmatic Programmers
 
+
 Roadmap:
 
 - 2023: python (everything is an object, class defines how object is created and metaclass defines how a class is created), swift (structs and closures), python design pattern (gof)
