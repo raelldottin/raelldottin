@@ -14,7 +14,7 @@ Attempt a non-trival programming project (one that will require more than 1,000 
 
 Roadmap:
 
-- 2023: python, swift, design pattern in python
+- 2023: python, swift, design patterns in python
 - 2024: saltstack, wireguard, gcp, docker, terraform, ansible, microk8s
 - 2025: golang, aws, consoleme, weep, jenkins, prometheus, grafana
 - 2026: c, asm, rust, asterisk, azure
