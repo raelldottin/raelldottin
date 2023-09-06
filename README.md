@@ -14,8 +14,8 @@ Attempt a non-trival programming project (one that will require more than 1,000 
 
 Roadmap:
 
-- 2023: python (everything is an object, class defines how object is created and metaclass defines how a class is created), swift (structs and closures), python design pattern (gof)
-- 2024: gcp, docker, terraform, ansible, microk8s
+- 2023: python, swift, design pattern in python
+- 2024: saltstack, wireguard, gcp, docker, terraform, ansible, microk8s
 - 2025: golang, aws, consoleme, weep, jenkins, prometheus, grafana
 - 2026: c, asm, rust, asterisk, azure
 - 2027: ospf, bgp, mpls, vlan, vpn
