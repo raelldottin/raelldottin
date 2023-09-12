@@ -49,7 +49,9 @@ Assembly       4 mins          ▒░░░░░░░░░░░░░░░�
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
 -->
----  
+
+---
+
 Attempt a non-trival programming project (one that will require more than 1,000 lines of code to solve) by following these rules:
 1. Only one level of indentation is allowed per method, thus no if statements in loops or nesting.
 1. You’re not allowed to use the keyword else.
