@@ -1,10 +1,11 @@
 Roadmap:
 
-- 2023: python, swift, design patterns in python
-- 2024: saltstack, wireguard, gcp, docker, terraform, ansible, microk8s
-- 2025: golang, aws, consoleme, weep, jenkins, prometheus, grafana
-- 2026: c, asm, rust, asterisk, azure
-- 2027: ospf, bgp, mpls, vlan, vpn
+- 2023: python, design patterns in python
+- 2024: swift, design patterns in swift
+- 2025: saltstack, wireguard, gcp, docker, terraform, ansible, microk8s
+- 2026: golang, aws, consoleme, weep, jenkins, prometheus, grafana
+- 2027: c, asm, rust, asterisk, azure
+- 2028: ospf, bgp, mpls, vlan, vpn
 ---
 [![Weekly Dev Breakdown Updates](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml)
 
