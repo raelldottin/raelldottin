@@ -12,11 +12,11 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil          1 hr 30 mins    ███████▓░░░░░░░░░░░░░░░░░   31.00 %
-ActionScript   1 hr 27 mins    ███████▓░░░░░░░░░░░░░░░░░   30.08 %
-Python         1 hr 21 mins    ███████░░░░░░░░░░░░░░░░░░   27.83 %
-GDScript       22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Markdown       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+ActionScript   1 hr 27 mins    ███████████▒░░░░░░░░░░░░░   45.21 %
+Python         51 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
+Ezhil          31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+GDScript       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Markdown       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
