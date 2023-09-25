@@ -46,12 +46,9 @@ Lua            6 mins          ▓░░░░░░░░░░░░░░░�
 <a href="https://github.com/raelldottin">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
-<!--
 <a href="https://github.com/raelldottin">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
--->
-
 ---
 
 Attempt a non-trival programming project (one that will require more than 1,000 lines of code to solve) by following these rules:
