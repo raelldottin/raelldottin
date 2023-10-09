@@ -1,7 +1,7 @@
 Roadmap:
 
 - 2023: python, design patterns in python, django, sqlalchemy
-- 2024: docker, saltstack, wireguard
+- 2024: docker, saltstack, wireguard, fortios
 - 2025: swift, design patterns in swift
 - 2026: gcp, terraform, ansible, microk8s
 - 2027: golang, aws, consoleme, weep, jenkins, prometheus, grafana
