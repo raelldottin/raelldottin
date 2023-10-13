@@ -1,3 +1,6 @@
+If hate is a measure of success; I think they should recalibrate and give me less hate. Or increase the throughput of my success.…-
+——-
+
 Roadmap:
 
 - 2023: python, design patterns in python, django, sqlalchemy
