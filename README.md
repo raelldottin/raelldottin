@@ -1,4 +1,4 @@
-If hate is a measure of success; I think they should recalibrate and give me less hate. Or increase the throughput of my success.
+If hate is a measure of success; I think they should recalibrate and give me less hate. Or increase the throughput of my success; because, the road to my destruction is your self destruction.
 ---
 
 Roadmap:
