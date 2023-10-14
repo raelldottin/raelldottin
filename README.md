@@ -1,5 +1,5 @@
 If hate reflects success, perhaps they should lessen their disdain for me. Either amplify my accomplishments or realize that seeking my downfall is also their own undoing.
-- Raell Dottin
+— Raell Dottin
 ---
 
 Roadmap:
