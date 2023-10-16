@@ -74,8 +74,8 @@ If hate reflects success, perhaps they should lessen their disdain for me. Eithe
 
 — Raell Dottin
 
+
 ---
 
-People keep asking if I'm back, and I haven't really had an answer. But now, yeah, I'm thinkin' I'm back.
 
-— John Wick
+
