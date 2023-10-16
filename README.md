@@ -1,5 +1,4 @@
-If hate reflects success, perhaps they should lessen their disdain for me. Either amplify my accomplishments or realize that seeking my downfall is also their own undoing.
-— Raell Dottin
+
 ---
 
 Roadmap:
@@ -68,3 +67,9 @@ Attempt a non-trival programming project (one that will require more than 1,000 
 1. You are not allowed to use getters, setters, or access properties directly.
 
 — Thought Works Anthology by Jeff Bay published by The Pragmatic Programmers
+
+---
+
+If hate reflects success, perhaps they should lessen their disdain for me. Either amplify my accomplishments or realize that seeking my downfall is also their own undoing.
+
+— Raell Dottin
