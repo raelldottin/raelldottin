@@ -73,3 +73,7 @@ Attempt a non-trival programming project (one that will require more than 1,000 
 If hate reflects success, perhaps they should lessen their disdain for me. Either amplify my accomplishments or realize that seeking my downfall is also their own undoing.
 
 — Raell Dottin
+
+People keep asking if I'm back, and I haven't really had an answer. But now, yeah, I'm thinkin' I'm back.
+
+— John Wick
