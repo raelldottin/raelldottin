@@ -53,7 +53,7 @@ Markdown       0 secs          ░░░░░░░░░░░░░░░░�
 </a>
 
 ---
-
+<!--
 Attempt a non-trival programming project (one that will require more than 1,000 lines of code to solve) by following these rules:
 1. Only one level of indentation is allowed per method, thus no if statements in loops or nesting.
 1. You’re not allowed to use the keyword else.
@@ -68,6 +68,7 @@ Attempt a non-trival programming project (one that will require more than 1,000 
 — Thought Works Anthology by Jeff Bay published by The Pragmatic Programmers
 
 ---
+-->
 
 If hate reflects success, perhaps they should lessen their disdain for me. Either amplify my accomplishments or realize that seeking my downfall is also their own undoing.
 
