@@ -1,10 +1,11 @@
 ---
 
+<!--
 I envision a future where each of my online personas operates through a distinct neural network.
 
 
 ---
-<!--
+
 
 Some might mistakenly compare me to Lupin because of misguided perceptions, but I resonate more with the Laughing Man from 'Ghost in the Shell: Standalone Complex.' It's fascinating how childhood dreams can leave such a profound mark.
 
@@ -77,11 +78,10 @@ Attempt a non-trival programming project (one that will require more than 1,000 
 — Thought Works Anthology by Jeff Bay published by The Pragmatic Programmers
 
 ---
--->
+
 
 If hate reflects success, perhaps they should lessen their disdain for me. Either amplify my accomplishments or realize that seeking my downfall is also their own undoing.
 
 ---
 
-
-
+-->
