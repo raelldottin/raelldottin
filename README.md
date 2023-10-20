@@ -1,3 +1,6 @@
+---
+
+Some might mistakenly compare me to Lupin because of misguided perceptions, but I resonate more with the Laughing Man from 'Ghost in the Shell: Standalone Complex.' It's fascinating how childhood dreams can leave such a profound mark.
 
 ---
 
