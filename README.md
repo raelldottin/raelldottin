@@ -1,15 +1,5 @@
----
-
-<!--
-I envision a future where each of my online personas operates through a distinct neural network.
-
 
 ---
-
-
-Some might mistakenly compare me to Lupin because of misguided perceptions, but I resonate more with the Laughing Man from 'Ghost in the Shell: Standalone Complex.' It's fascinating how childhood dreams can leave such a profound mark.
-
--->
 
 Roadmap:
 
@@ -20,7 +10,9 @@ Roadmap:
 - 2027: golang, aws, consoleme, weep, jenkins, prometheus, grafana
 - 2028: c, asm, rust, asterisk
 - 2029: ospf, bgp, mpls, vlan, vpn
+  
 ---
+
 [![Weekly Dev Breakdown Updates](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml)
 
 <!--START_SECTION:waka-->
@@ -33,7 +25,9 @@ Markdown   0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
 ---
+
 [![GitHub Metrics Updates](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
 
 <a href="https://github.com/raelldottin">
@@ -63,7 +57,9 @@ Markdown   0 secs          ░░░░░░░░░░░░░░░░░�
 </a>
 
 ---
+
 <!--
+
 Attempt a non-trival programming project (one that will require more than 1,000 lines of code to solve) by following these rules:
 1. Only one level of indentation is allowed per method, thus no if statements in loops or nesting.
 1. You’re not allowed to use the keyword else.
