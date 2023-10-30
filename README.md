@@ -80,4 +80,8 @@ If hate reflects success, perhaps they should lessen their disdain for me. Eithe
 
 ---
 
+As a black person, I often feel like I'm under constant scrutiny. Trust becomes a luxury in a world that seems perpetually against me. If my actions seem aggressive, understand that they stem from a relentless battle for my basic right to exist.
+
+---
+
 -->
