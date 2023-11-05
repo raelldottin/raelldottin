@@ -18,8 +18,8 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   10 mins         ██████████████▒░░░░░░░░░░   57.22 %
-JSON     7 mins          ██████████▓░░░░░░░░░░░░░░   42.78 %
+JSON     7 mins          ███████████████▒░░░░░░░░░   61.16 %
+Python   4 mins          █████████▓░░░░░░░░░░░░░░░   38.84 %
 ```
 
 <!--END_SECTION:waka-->
