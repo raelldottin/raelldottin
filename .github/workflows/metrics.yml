@@ -14,7 +14,7 @@ jobs:
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: raelldottin
           base: achievements
           plugin_achievements: yes
@@ -31,8 +31,8 @@ jobs:
           filename: header.svg
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
-          # METRICS_SECRET is a special auto-generated token used for commits
-          committer_token: ${{ secrets.secrets.METRICS_SECRET }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: raelldottin
@@ -46,7 +46,7 @@ jobs:
         with:
           filename: lines-of-code.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
           plugin_lines: yes
 
