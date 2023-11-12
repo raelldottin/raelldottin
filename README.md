@@ -4,12 +4,12 @@
 Roadmap:
 
 - 2023: python, design patterns in python
-- 2024: golang, design patterns in golang, docker, saltstack, wireguard, fortios
-- 2025: swift, design patterns in swift
-- 2026: gcp, terraform, ansible, microk8s
-- 2027: aws, consoleme, weep, jenkins, prometheus, grafana
-- 2028: c, asm, rust, asterisk
-- 2029: ospf, bgp, mpls, vlan, vpn
+- 2024: swift, design patterns in swift,  microk8s, docker, saltstack, wireguard, fortios
+- 2025: golang, design patterns in golang, gcp, terraform, ansible
+- 2026: aws, consoleme, weep
+- 2027: jenkins, prometheus, grafana
+- 2028: ospf, bgp, mpls, vlan, vpn
+- 2029: asterisk
   
 ---
 
@@ -59,8 +59,6 @@ sshconfig   14 mins         █░░░░░░░░░░░░░░░░�
 
 ---
 
-<!--
-
 Attempt a non-trival programming project (one that will require more than 1,000 lines of code to solve) by following these rules:
 1. Only one level of indentation is allowed per method, thus no if statements in loops or nesting.
 1. You’re not allowed to use the keyword else.
@@ -76,16 +74,13 @@ Attempt a non-trival programming project (one that will require more than 1,000 
 
 ---
 
+<!--
 
 If hate reflects success, perhaps they should lessen their disdain for me. Either amplify my accomplishments or realize that seeking my downfall is also their own undoing.
 
 ---
 
 As a black person, I often feel like I'm under constant scrutiny. Trust becomes a luxury in a world that seems perpetually against me. If my actions seem aggressive, understand that they stem from a relentless battle for my basic right to exist.
-
----
-
-Long Live Dan Kaminsky!
 
 ---
 
