@@ -4,8 +4,8 @@
 Roadmap:
 
 - 2023: python, design patterns in python
-- 2024: swift, design patterns in swift,  microk8s, docker, saltstack, wireguard, fortios
-- 2025: rust, design patterns in rust, gcp, terraform, surrealdb
+- 2024: swift, design patterns in swift,  microk8s, docker, saltstack, wireguard, fortios, splunk, osquery, santa
+- 2025: c, gcp, terraform, postgre, apache, nginx
 - 2026: aws, consoleme, weep
 - 2027: jenkins, prometheus, grafana
 - 2028: ospf, bgp, mpls, vlan, vpn
