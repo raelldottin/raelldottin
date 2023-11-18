@@ -6,7 +6,7 @@ Roadmap:
 - 2023: python
 - 2024: golang, k8s, microk8s, docker, saltstack, wireguard, fortios, splunk, osquery, santa
 - 2025: aws, consoleme, weep, terraform, postgre, apache, nginx
-- 2026: rust,jenkins, prometheus, grafana
+- 2026: rust, jenkins, prometheus, grafana
 - 2027: ospf, bgp, mpls, vlan, vpn
 - 2028: c, asterisk
   
