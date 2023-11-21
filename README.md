@@ -17,7 +17,11 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python      11 hrs 31 mins  █████████████▒░░░░░░░░░░░   53.82 %
+Lua         5 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
+Bash        2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
+YAML        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Markdown    24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
