@@ -73,14 +73,4 @@ Attempt a non-trival programming project (one that will require more than 1,000 
 
 ---
 
-<!--
-
-If hate reflects success, perhaps they should lessen their disdain for me. Either amplify my accomplishments or realize that seeking my downfall is also their own undoing.
-
----
-
-As a black person, I often feel like I'm under constant scrutiny. Trust becomes a luxury in a world that seems perpetually against me. If my actions seem aggressive, understand that they stem from a relentless battle for my basic right to exist.
-
----
-
 -->
