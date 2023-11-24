@@ -7,8 +7,8 @@ Roadmap:
 - 2024: python, aws, consoleme, weep, terraform
 - 2025: python, microk8s, docker, saltstack, wireguard, fortios, splunk, osquery, santa
 - 2026: python, postgre, apache, nginx, tor
-- 2027: python, jenkins, prometheus, grafana
-- 2028: c, cpython, asterisk, ospf, bgp, mpls, vlan, vpn
+- 2027: python, jenkins, prometheus, grafana, snort
+- 2028: c, cpython, asterisk, ospf, bgp, mpls, vlan, vpn, kismet, airsnort
   
 ---
 
