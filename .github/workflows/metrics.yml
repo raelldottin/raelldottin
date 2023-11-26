@@ -1,4 +1,4 @@
-name: GitHub Metrics
+name: GitHub Metrics CI
 on:
   # Schedule updates (once a day)
   schedule: [{ cron: "0 0 * * *" }]
