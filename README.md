@@ -12,7 +12,7 @@ Roadmap:
   
 ---
 
-[![Weekly Dev Breakdown Updates](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml)
+[![Weekly Dev Breakdown CI ](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml)
 
 <!--START_SECTION:waka-->
 
