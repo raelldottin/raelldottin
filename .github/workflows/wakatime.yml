@@ -1,4 +1,4 @@
-name: Weekly Dev Breakdown Updates
+name: Weekly Dev Breakdown CI
 
 on:
   workflow_dispatch:
