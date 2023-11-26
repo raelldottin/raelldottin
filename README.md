@@ -28,7 +28,7 @@ YAML        6 mins          ▒░░░░░░░░░░░░░░░░�
 
 ---
 
-[![GitHub Metrics Updates](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
+[![GitHub Metrics CI ](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
 
 <a href="https://github.com/raelldottin">
   <img align="center" width="49%" src="./header.svg" />
