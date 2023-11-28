@@ -9,7 +9,8 @@ Roadmap:
 - 2026: python, postgre, apache, nginx, tor
 - 2027: python, jenkins, prometheus, grafana, snort
 - 2028: c, cpython, asterisk, ospf, bgp, mpls, vlan, vpn, kismet, airsnort-ng, gns3
-  
+- 2029: tensorflow, keras, and pytorch
+ 
 ---
 
 [![Weekly Dev Breakdown CI ](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml)
