@@ -4,7 +4,7 @@
 Roadmap:
 
 - 2023: python
-- 2024: python, go, bash, aws, azure, gcp, terraform, cloudformation
+- 2024: python, go, aws, azure, gcp, terraform, cloudformation
 - 2025: python, go, terragrunt, atlantis, ansible, jenkins, docker, kubernetes, rancher, prometheus, elk stack
 - 2026: python, go, postgre, apache, nginx
 - 2027: python, go, grafana, snort, consoleme, weep, microk8s, wireguard, 
