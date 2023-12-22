@@ -5,7 +5,7 @@ Roadmap:
 
 - 2023: python
 - 2024: python, go, rust, typescript, aws, azure, gcp, terraform, cloudformation
-- 2025: python, go, rust, typescript, terragrunt, atlantis, ansible, jenkins, docker, , microk8s, kubernetes, rancher, prometheus, elk stack
+- 2025: python, go, rust, typescript, terragrunt, atlantis, ansible, jenkins, docker, microk8s, kubernetes, rancher, prometheus, elk stack
 - 2026: python, go, rust, typescript, postgre, apache, nginx
 - 2027: python, go, rust, typescript, grafana, snort, consoleme, weep, microk8s, wireguard, 
 - 2028: python, go, rust, typescript, asterisk, ospf, bgp, mpls, vlan, vpn, kismet, airsnort-ng, gns3
