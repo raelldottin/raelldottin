@@ -18,8 +18,8 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-gitignore   0 secs          ███████████████▓░░░░░░░░░   63.16 %
-Python      0 secs          █████████▒░░░░░░░░░░░░░░░   36.84 %
+conf        0 secs          ██████████████░░░░░░░░░░░   55.56 %
+gitignore   0 secs          ███████████░░░░░░░░░░░░░░   44.44 %
 ```
 
 <!--END_SECTION:waka-->
