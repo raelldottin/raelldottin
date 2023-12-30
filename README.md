@@ -4,12 +4,12 @@
 Roadmap:
 
 - 2023: python
-- 2024: python, go, swift, bash, aws, azure, gcp, terraform, cloudformation
-- 2025: python, go, swift, bash, terragrunt, atlantis, ansible, jenkins, docker, microk8s, kubernetes, rancher, prometheus, elk stack
-- 2026: python, go, swift, bash, postgre, apache, nginx
-- 2027: python, go, swift, bash, grafana, snort, consoleme, weep, microk8s, wireguard, 
-- 2028: python, go, swift, bash, asterisk, ospf, bgp, mpls, vlan, vpn, kismet, airsnort-ng, gns3
-- 2029: python, go, swift, bash
+- 2024: python, go, swift, rust, aws, azure, gcp, terraform, cloudformation
+- 2025: python, go, swift, rust, terragrunt, atlantis, ansible, jenkins, docker, microk8s, kubernetes, rancher, prometheus, elk stack
+- 2026: python, go, swift, rust, postgre, apache, nginx
+- 2027: python, go, swift, rust, grafana, snort, consoleme, weep, microk8s, wireguard, 
+- 2028: python, go, swift, rust, asterisk, ospf, bgp, mpls, vlan, vpn, kismet, airsnort-ng, gns3
+- 2029: python, go, swift, rust
  
 ---
 
