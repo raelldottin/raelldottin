@@ -18,8 +18,7 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-conf        0 secs          ██████████████░░░░░░░░░░░   55.56 %
-gitignore   0 secs          ███████████░░░░░░░░░░░░░░   44.44 %
+conf   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
