@@ -17,8 +17,7 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 18 mins   ███████████████████████▓░   95.33 %
-tmux     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Python   2 hrs 20 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
