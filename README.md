@@ -17,7 +17,8 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+conf    26 mins         ██████████████████████▓░░   90.37 %
+Other   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
 ```
 
 <!--END_SECTION:waka-->
