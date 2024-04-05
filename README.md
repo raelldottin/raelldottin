@@ -17,8 +17,8 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-conf    26 mins         ██████████████████████▓░░   90.37 %
-Other   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+conf    1 hr 5 mins     ████████████████████████░   95.91 %
+Other   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
