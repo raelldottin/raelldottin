@@ -17,7 +17,11 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C          11 hrs 43 mins  ███████████████████████▒░   93.99 %
+Lua        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Bash       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Text       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Rust       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
