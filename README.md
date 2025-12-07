@@ -17,8 +17,7 @@ Roadmap:
 <!--START_SECTION:waka-->
 
 ```txt
-Lua    3 mins          █████████████████▓░░░░░░░   70.35 %
-Rust   1 min           ███████▒░░░░░░░░░░░░░░░░░   29.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
