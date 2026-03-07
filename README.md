@@ -43,7 +43,7 @@ No activity tracked
 ---
 
 <!--
-Hold my beer while I plug the data within this comment section into seneral AI prompts:
+Hold my beer while I plug the data within this comment section into several AI prompts:
 
 Attempt a non-trival programming project (one that will require more than 1,000 lines of code to solve) by following these rules:
 1. Only one level of indentation is allowed per method, thus no if statements in loops or nesting.
