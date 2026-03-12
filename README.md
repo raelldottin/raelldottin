@@ -1,17 +1,5 @@
 ---
 
-[![Weekly Dev Breakdown CI ](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/wakatime.yml)
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
 [![GitHub Metrics CI ](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml/badge.svg)](https://github.com/raelldottin/raelldottin/actions/workflows/metrics.yml)
 
 <a href="https://github.com/raelldottin">
@@ -43,7 +31,6 @@ No activity tracked
 ---
 
 <!--
-Hold my beer while I plug the data within this comment section into several AI prompts:
 
 Attempt a non-trival programming project (one that will require more than 1,000 lines of code to solve) by following these rules:
 1. Only one level of indentation is allowed per method, thus no if statements in loops or nesting.
@@ -58,6 +45,5 @@ Attempt a non-trival programming project (one that will require more than 1,000 
 
 — Thought Works Anthology by Jeff Bay published by The Pragmatic Programmers
 
----
 
 -->
