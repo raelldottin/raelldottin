@@ -46,16 +46,6 @@ jobs:
           template: classic
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
-  lines:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@v3.34
-        with:
-          filename: lines-of-code.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: "repositories"
-          plugin_lines: yes
 
   acti_comm:
     runs-on: ubuntu-latest
