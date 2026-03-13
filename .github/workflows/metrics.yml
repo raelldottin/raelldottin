@@ -1,10 +1,13 @@
-name: GitHub Metrics CI
+name: Metrics
 on:
-  # Schedule updates (once a day)
-  schedule: [{ cron: "0 0 * * *" }]
+  # Schedule updates (each hour)
+  schedule: [{ cron: "0 * * * *" }]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: { branches: ["master"] }
+
+permissions:
+  contents: write
 
 jobs:
   achievements:
