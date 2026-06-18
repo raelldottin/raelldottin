@@ -24,3 +24,19 @@
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
 --->
+<p>
+I build iOS apps around the systems I use in my own life: planning my day, keeping routines moving, writing things down, and staying consistent with training.
+
+
+Sometimes those tools turn into apps.
+
+
+Owlory helps with daily planning, routines, notes, and weekly reflection.
+
+https://apps.apple.com/us/app/owlory/id6761827402
+
+
+Gymphant helps with workout timing, gym logging, rest periods, and training history.
+
+https://apps.apple.com/us/app/gymphant/id6760241471
+</p>
