@@ -24,31 +24,19 @@
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
 --->
-<p>
-Projects
+## Projects
 
+**[Owlory](https://apps.apple.com/us/app/owlory/id6761827402)**  
+Plan your day, carry unfinished work forward, and review your progress.
 
-Owlory
-A planning app for organizing your day, carrying work forward, and reviewing your progress.
-https://apps.apple.com/us/app/owlory/id6761827402
+**[Gymphant](https://apps.apple.com/us/app/gymphant/id6760241471)**  
+Workout planning, timers, progress tracking, and Apple Watch support.
 
-
-Gymphant
-A workout companion for training plans, timers, progress tracking, and Apple Watch.
-https://apps.apple.com/us/app/gymphant/id6760241471
-
-
-Dripnory
+**[Dripnory](https://apps.apple.com/us/app/dripnory/id6785620239)**  
 A wardrobe and personal styling app for organizing what you own and deciding what to wear.
-https://apps.apple.com/us/app/dripnory/id6785620239
 
+**[Opnory](https://opnory.com)**  
+Independent software, tools, and experiments.
 
-Opnory
-Software and products built around practical tools, experimentation, and independent development.
-https://opnory.com
-
-
-Alepes
+**[Alepes](https://alepes.com)**  
 Independent software project.
-https://alepes.com
-</p>
