@@ -25,18 +25,30 @@
 </a>
 --->
 <p>
-I build iOS apps around the systems I use in my own life: planning my day, keeping routines moving, writing things down, and staying consistent with training.
+Projects
 
 
-Sometimes those tools turn into apps.
-
-
-Owlory helps with daily planning, routines, notes, and weekly reflection.
-
+Owlory
+A planning app for organizing your day, carrying work forward, and reviewing your progress.
 https://apps.apple.com/us/app/owlory/id6761827402
 
 
-Gymphant helps with workout timing, gym logging, rest periods, and training history.
-
+Gymphant
+A workout companion for training plans, timers, progress tracking, and Apple Watch.
 https://apps.apple.com/us/app/gymphant/id6760241471
+
+
+Dripnory
+A wardrobe and personal styling app for organizing what you own and deciding what to wear.
+https://apps.apple.com/us/app/dripnory/id6785620239
+
+
+Opnory
+Software and products built around practical tools, experimentation, and independent development.
+https://opnory.com
+
+
+Alepes
+Independent software project.
+https://alepes.com
 </p>
