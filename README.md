@@ -30,13 +30,13 @@
 Plan your day, carry unfinished work forward, and review your progress.
 
 **[Gymphant](https://apps.apple.com/us/app/gymphant/id6760241471)**  
-Workout planning, timers, progress tracking, and Apple Watch support.
+Plan workouts, run timers, track progress, and train with Apple Watch.
 
 **[Dripnory](https://apps.apple.com/us/app/dripnory/id6785620239)**  
-A wardrobe and personal styling app for organizing what you own and deciding what to wear.
+Organize your wardrobe and decide what to wear.
 
 **[Opnory](https://opnory.com)**  
-Independent software, tools, and experiments.
+AI-powered IT service desk for company-aware support, governed access requests, and self-service automation.
 
 **[Alepes](https://alepes.com)**  
-Independent software project.
+Automate how incoming cash is invested using rules that rebalance your portfolio with new contributions.
