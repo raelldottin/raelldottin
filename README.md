@@ -1,4 +1,3 @@
-<p>
 <a href="https://github.com/raelldottin">
   <img align="center" width="49%" src="./header.svg" />
 </a>
@@ -25,8 +24,7 @@
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
 --->
-</p>
-## Projects
+<h2>Projects</h2>
 
 **[Owlory](https://apps.apple.com/us/app/owlory/id6761827402)**  
 Plan your day, carry unfinished work forward, and review your progress.
