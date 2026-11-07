@@ -26,6 +26,12 @@
 --->
 <h2>Projects</h2>
 
+**[Alepes](https://alepes.com)**  
+Automate how incoming cash is invested using rules that rebalance your portfolio with new contributions.
+
+**[Opnory](https://opnory.com)**  
+AI-powered IT service desk for company-aware support, governed access requests, and self-service automation.
+
 **[Owlory](https://apps.apple.com/us/app/owlory/id6761827402)**  
 Plan your day, carry unfinished work forward, and review your progress.
 
@@ -35,8 +41,3 @@ Plan workouts, run timers, track progress, and train with Apple Watch.
 **[Dripnory](https://apps.apple.com/us/app/dripnory/id6785620239)**  
 Organize your wardrobe and decide what to wear.
 
-**[Opnory](https://opnory.com)**  
-AI-powered IT service desk for company-aware support, governed access requests, and self-service automation.
-
-**[Alepes](https://alepes.com)**  
-Automate how incoming cash is invested using rules that rebalance your portfolio with new contributions.
