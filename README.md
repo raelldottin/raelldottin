@@ -40,4 +40,3 @@ Plan workouts, run timers, track progress, and train with Apple Watch.
 
 **[Dripnory](https://apps.apple.com/us/app/dripnory/id6785620239)**  
 Organize your wardrobe and decide what to wear.
-
